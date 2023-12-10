@@ -1,12 +1,8 @@
-%% Math problems-distributed model prediction control of vehicel platoon under uncertain communication
-% from Peiyu 
-% data 20220704
-
 clear
 close all
 clc 
 
-work_path = 'E:\Matlabcode\Work4\data\ours';
+work_path = '...';
 cd(work_path);
 
 
